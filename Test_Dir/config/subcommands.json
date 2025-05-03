@@ -1,0 +1,7 @@
+{
+  "subcommands": {
+    "Test-Module": ".\\modules\\Test-Module\\test.exe",
+    "Add-Module": ".\\path\\to\\hello.exe",
+    "Remove-Module": ".\\path\\to\\goodbye.exe"
+  }
+}

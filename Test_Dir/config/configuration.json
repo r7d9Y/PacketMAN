@@ -1,0 +1,7 @@
+{
+  "APP_NAME": "WPM",
+  "VERSION": "1.0.0",
+  "PATH_OF_SUBCOMMANDS_CONFIGURATION_FILE" : "config\\subcommands.json",
+  "VERSION_DATE": "May 3rd 2025",
+  "MODULE_DOWNLOAD_URL": ""
+}
