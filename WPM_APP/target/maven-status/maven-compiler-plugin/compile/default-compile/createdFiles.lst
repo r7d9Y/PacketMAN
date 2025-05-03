@@ -1,0 +1,5 @@
+app\ProxyCommand.class
+commands\Version.class
+app\App.class
+commands\Help.class
+app\InternalCommandMapper.class
